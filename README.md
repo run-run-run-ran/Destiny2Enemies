@@ -116,7 +116,7 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 - Melee,	Arc
 
-## Vex
+## [Vex](http://imgur.com/a/AGUF8)
 
 **Fanatic**
 
@@ -138,7 +138,7 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 - [Torch Hammer, Void](http://i.imgur.com/2rYkn4W.png)				
 
-## Vex Axis Minds
+## [Vex Axis Minds](http://imgur.com/a/jcupk)
 
 **Protheon, Modular Mind**
 
