@@ -1,6 +1,6 @@
 # Destiny 2 Enemies
 
-Destiny 2 Enemies and Damage Types. Data collected from the Destiny 2 Beta.
+Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta.
 
 ## Cabal
 
@@ -31,17 +31,41 @@ Destiny 2 Enemies and Damage Types. Data collected from the Destiny 2 Beta.
 - Cabal Melee	Void
 
 **Honored Legionary**
+
+- Projection Rifle, Solar
+
 **Impact Centurion**
+
+- Projection Rifle, Solar
+
 **Incendior**
+
+- Cabal Magma Launcher, Solar
+- Melee,	Kinetic
+- Cabal Magma Malfunction,	Solar
+
 **Legionary**
+
+- Cabal Slug Shotgun, Arc
+- Cabal Melee	Solar
+
 **Phalanx**
+
+- Slug Rifle, Solar
+
 **Psion**
+
+- Cabal Headhunter, Solar
+- Psionic Blast,	Void
+
 **War Beast**
+
+- Cabal Claws Melee, Kinetic
 
 ## Cabal Command
 
 ## Vex
 
-## Vex Minds
+## Vex Axis Minds
 
 ## Fallen
