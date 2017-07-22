@@ -2,6 +2,8 @@
 
 Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta.
 
+---
+
 ## [Cabal](http://imgur.com/a/gzqHS)
 
 **Blood Guard Centurion**
@@ -63,6 +65,8 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 - [Cabal Claws Melee, Kinetic](http://i.imgur.com/emKGXZY.png)
 
+---
+
 ## [Cabal Command](http://imgur.com/a/GYbLb)
 
 **Brann, the Unbent Blade**
@@ -78,6 +82,8 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 - [Cabal Magma Launcher, Solar](http://i.imgur.com/ZB9fVJ3.png)
 - [Cabal Magma Burn, Solar](http://i.imgur.com/pBvFKMT.png)
+
+---
 
 ## [Fallen](http://imgur.com/a/XPmKW)
 
@@ -114,7 +120,9 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 **Wretch**
 
-- Melee,	Arc
+- [Melee,	Arc](http://i.imgur.com/Rn2tgB8.png)
+
+---
 
 ## [Vex](http://imgur.com/a/AGUF8)
 
@@ -136,7 +144,9 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 **Storm Minotaur**
 
-- [Torch Hammer, Void](http://i.imgur.com/2rYkn4W.png)				
+- [Torch Hammer, Void](http://i.imgur.com/2rYkn4W.png)			
+
+---
 
 ## [Vex Axis Minds](http://imgur.com/a/jcupk)
 
