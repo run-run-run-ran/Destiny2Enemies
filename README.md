@@ -63,7 +63,7 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 - [Cabal Claws Melee, Kinetic](http://i.imgur.com/emKGXZY.png)
 
-## Cabal Command
+## [Cabal Command](http://imgur.com/a/GYbLb)
 
 **Brann, the Unbent Blade**
 
@@ -79,7 +79,7 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 - [Cabal Magma Launcher, Solar](http://i.imgur.com/ZB9fVJ3.png)
 - [Cabal Magma Burn, Solar](http://i.imgur.com/pBvFKMT.png)
 
-## Fallen
+## [Fallen](http://imgur.com/a/XPmKW)
 
 **Captain**
 
@@ -118,5 +118,31 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 
 ## Vex
 
+**Fanatic**
+
+- [Detonation,	Solar](http://i.imgur.com/UnIrAbB.png)
+
+**Goblin**
+
+- [Slap Rifle, Solar](http://i.imgur.com/JvNrILd.png)		
+
+**Harpy**
+
+- [Vex Laser Rifle,	Void](http://i.imgur.com/jv8Heif.png)
+
+**Hobgoblin**
+
+- [Line Rifle, Solar](http://i.imgur.com/79TeOfu.png)		
+
+**Storm Minotaur**
+
+- [Torch Hammer, Void](http://i.imgur.com/2rYkn4W.png)				
+
 ## Vex Axis Minds
 
+**Protheon, Modular Mind**
+
+- [Torch Hammer, Void](http://i.imgur.com/gZtpIOs.png)
+- [Slap Rifle,	Arc](http://i.imgur.com/T6UKEXO.png)
+- [Temporal Shockwave, Kinetic](http://i.imgur.com/hD2AcHv.png)
+- ["Floor is Lava Attack" _(Killed By Architects)_, Solar](http://i.imgur.com/EvAPjWi.png)
