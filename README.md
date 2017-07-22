@@ -15,7 +15,7 @@ Destiny 2 Enemies, Arsenal, Damage Types. Data collected from the Destiny 2 Beta
 **Centurion**
 
 - [Cabal Bronto Cannon,	Void](http://i.imgur.com/28onFDs.png)
-- [Cabal Melee](http://i.imgur.com/kJtGGaN.jpg)
+- [Cabal Melee, Void](http://i.imgur.com/kJtGGaN.jpg)
 
 **Colossus**
 
